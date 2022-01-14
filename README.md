@@ -1,10 +1,14 @@
 - 👋 Hi, I’m Nikolas Galih
 
-- 🏫 I'm a student of information engineering at UGM
+- 🏫 I'm a student of Information Engineering at UGM
 
 - 📍 I come from Yogyakarta, Indonesia
 
-- 👀 I’m interested in web development
+- 👀 I’m interested in software engineering, web development
+
+- 📖 I'm currently learning web development
+
+- 💻 Tech stack : react js, node js, c++
 
 - 📫 How to reach me : saputragalih8@gmail.com
 
