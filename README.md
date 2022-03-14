@@ -8,7 +8,7 @@
 
  📫 How to reach me : [Email](mailto:saputragalih8@gmail.com)
  
- 🔗 Website : [Nikolas Galih](nikolasgalih.my.id)
+ 🔗 Website : [Nikolas Galih](https://nikolasgalih.my.id)
 
 <!---
 ncgalih/ncgalih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
